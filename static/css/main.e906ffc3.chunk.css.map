@@ -1,0 +1,1 @@
+{"version":3,"sources":["PostList.scss","Comment.scss"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CCDpB,OACE,cAAe","file":"main.e906ffc3.chunk.css","sourcesContent":[".list {\n  padding: 20px 50px;\n}\n",".title {\n  font-size: 18px;\n}\n"]}
